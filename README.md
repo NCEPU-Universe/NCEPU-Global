@@ -22,10 +22,10 @@
 
 ### 2022
 
-| 姓名   | 专业     | 申请学校                                 | 经验总结              |
-| ------ | -------- | ---------------------------------------- | --------------------- |
-| 申博林 | 计算机系 | DS&ML@University of Michigan - Ann Arbor | [Link](出国/bolin.md) |
-| 童艺晨 | 计算机系 | CS@University of Amsterdam               | Link                  |
+| 姓名   | 专业     | 最终学校                                                 | 经验总结              |
+| ------ | -------- | -------------------------------------------------------- | --------------------- |
+| 申博林 | 计算机系 | DS&ML@University of Michigan - Ann Arbor                 | [Link](出国/bolin.md) |
+| 童艺晨 | 计算机系 | CS@University of Amsterdam&Vrije Universiteit Amsterdam  | Link                  |
 
 ## 交换
 
@@ -33,5 +33,5 @@
 
 | 姓名 | 专业     | 申请学校 | 经验总结 |
 | ---- | -------- | -------- | -------- |
-| xxx  | 计算机系 | xxx      | Link     |
+| 童艺晨  | 计算机系 | Wroclaw University of Science and Technology      | Link     |
 | xxx  | 计算机系 | xxx      | Link     |
